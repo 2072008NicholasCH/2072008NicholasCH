@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - <br>🌱 I’m currently learning Flutter, Kotlin, Node JS<br>💬 About me: linktr.ee/hexch<br>⚡ Experience: Java, Python, LUA, PHP
+🔭 I’m currently working on PT. Gits Indonesia as a Backend Developer <br>🌱 I’m currently learning Flutter, Kotlin, Node JS<br>💬 About me: linktr.ee/hexch<br>⚡ Experience: Java, Python, LUA, PHP
 
 
 ## 🌐 Socials:
