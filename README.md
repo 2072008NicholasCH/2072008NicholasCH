@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **gRPC, AdonisJS**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repo](My GitHub Repo)
+- 👨‍💻 All of my projects are available at My GitHub Repo
 
-- 💬 About me: **linktr.ee/hexch**
+- 💬 About me: **https://www.linktr.ee/hexch**
 
 - 📫 How to reach me **https://www.linkedin.com/in/nicholasch/**
 
